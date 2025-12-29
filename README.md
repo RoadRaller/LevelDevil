@@ -4,9 +4,6 @@ I do not claim ownership of this game or its source code.
 This page only hosts the compiled web version for demonstration purposes.
 All rights remain with the original developer and publisher.
 
-Original publisher:
-Poki (https://poki.com)
-
 No ads or monetization are used.
 Any donation links support the website owner only.
 
